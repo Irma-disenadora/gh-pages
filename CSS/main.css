@@ -1,15 +1,21 @@
 body
 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 26px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
 
-		font-family: Helvetica;
-		font-size: 18px;
-		text-align: center;
-	
-
+.nomine
+{
+	float: right;
 }
 
 .contenido1
 {
+	padding-top: 30px;
+	padding-bottom: 25px;
 	height: 300px;
 	width: 100%;
 }
@@ -28,21 +34,21 @@ body
 
 #gordito
 {
-	height: 500px;
+	height: 550px;
 	text-align: center; 
 	background-color: #F5F3F4;
 }
 
 #muerto
 {
-	height: 500px;
+	height: 550px;
 	text-align: center;
 	background-color: #DFECF5; 
 }
 
 #inlove
 {
-	height: 500px;
+	height: 550px;
 	text-align: center; 
 	background-color: #DFE0F4;
 }
@@ -51,3 +57,48 @@ body
 {
 	text-align: center;
 }
+
+.morado
+{
+	color: #8258B6;
+}
+
+.gris
+{
+	color: #534E68;
+}
+
+.contenido3
+{
+	background-color: #8258B6;
+	margin: -14px;
+	padding-bottom: 35px;
+}
+
+.textfooter
+{
+	color: #271A38;
+	font-size: 20px;
+	padding-top: 50px;
+	padding-left: 450px;
+	padding-right: 450px;
+	text-align:center;
+}
+
+.blanco
+{
+	color: #E9E4F5;
+}
+
+.link
+{
+	text-decoration: none;
+	color: #13BAC0;
+}
+
+.footer
+{
+	background-color: #E1EFF3;
+}
+
+
