@@ -1,0 +1,32 @@
+body
+{
+
+		font-family: Helvetica;
+		font-size: 18px;
+		text-align: center;
+
+}
+
+.contenido1
+{
+	height: 300px;
+	width: 100%;
+}
+
+.logo
+{
+	height: 158px;
+	width: 336px;
+
+}
+
+#header
+{
+	text-align: center;
+}
+
+.senor
+{
+	height: 500px;
+	width: 700px;
+}
