@@ -4,6 +4,7 @@ body
 		font-family: Helvetica;
 		font-size: 18px;
 		text-align: center;
+	
 
 }
 
@@ -25,8 +26,28 @@ body
 	text-align: center;
 }
 
-.senor
+#gordito
 {
 	height: 500px;
-	width: 700px;
+	text-align: center; 
+	background-color: #F5F3F4;
+}
+
+#muerto
+{
+	height: 500px;
+	text-align: center;
+	background-color: #DFECF5; 
+}
+
+#inlove
+{
+	height: 500px;
+	text-align: center; 
+	background-color: #DFE0F4;
+}
+
+#contenido2
+{
+	text-align: center;
 }
